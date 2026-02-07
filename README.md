@@ -31,6 +31,7 @@ Before starting, you should have:
 ```bash
 express-mastery/
 ├── 01-basics/ # Hello World, Routing, Request/Response
+├── 02-middleware/ # Custom & Third-party (Morgan, CORS, JSON)
 ├── README.md # Learning roadmap & documentation
 └── .gitignore # Ignore node_modules/ and environment files
 ```
@@ -44,6 +45,15 @@ Learn the foundation of Express:
 - Routing (`GET`, `POST`, etc.)
 - Request (`req`) and response (`res`) objects
 - Sending text and JSON responses
+
+---
+
+## 🟡 02 – Middleware
+Understand the **core concept of Express**:
+- What middleware is and how it works
+- Custom middleware
+- Built-in middleware (`express.json`)
+- Third-party middleware (Morgan, CORS)
 
 ---
 
