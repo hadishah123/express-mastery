@@ -32,6 +32,7 @@ Before starting, you should have:
 express-mastery/
 ├── 01-basics/ # Hello World, Routing, Request/Response
 ├── 02-middleware/ # Custom & Third-party (Morgan, CORS, JSON)
+├── 03-rest-api/ # CRUD operations with a mock database
 ├── README.md # Learning roadmap & documentation
 └── .gitignore # Ignore node_modules/ and environment files
 ```
@@ -54,6 +55,15 @@ Understand the **core concept of Express**:
 - Custom middleware
 - Built-in middleware (`express.json`)
 - Third-party middleware (Morgan, CORS)
+
+---
+
+## 🟠 03 – REST API
+Build proper RESTful APIs:
+- REST principles
+- CRUD operations
+- Route parameters and query strings
+- Mock database handling
 
 ---
 
