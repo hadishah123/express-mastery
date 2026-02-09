@@ -69,12 +69,27 @@ Build proper RESTful APIs:
 
 ## ▶️ Getting Started
 
+### Step 1: Clone the repository
 ```bash
 git clone https://github.com/hadishah123/express-mastery.git
+```
+### Step 2: Move into the project directory
+```bash
 cd express-mastery
+cd your-folder-name
+```
+### Step 3: Install dependencies 
+```bash
 npm install
+```
+### Step 4: Run the project
+```bash
 npm run dev
 ```
+**🚀 The server will start and run at:**
+`http://localhost:3000`
+
+--- 
 
 ## 🎯 Goal of This Repository
 
