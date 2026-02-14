@@ -33,6 +33,7 @@ express-mastery/
 ├── 01-basics/ # Hello World, Routing, Request/Response
 ├── 02-middleware/ # Custom & Third-party (Morgan, CORS, JSON)
 ├── 03-rest-api/ # CRUD operations with a mock database
+├── 04-databases/ # MongoDB (Mongoose), MVC structure, real database CRUD
 ├── README.md # Learning roadmap & documentation
 └── .gitignore # Ignore node_modules/ and environment files
 ```
@@ -64,6 +65,15 @@ Build proper RESTful APIs:
 - CRUD operations
 - Route parameters and query strings
 - Mock database handling
+
+--- 
+
+## 🔵 04 – Databases
+Persist data using real databases:
+- Connecting MongoDB with Mongoose
+- Creating schemas and models
+- Performing database CRUD operations
+- Async/await with database queries
 
 ---
 
