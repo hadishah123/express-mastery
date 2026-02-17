@@ -14,7 +14,6 @@ You’ll move from a mock database to a real persistent database and structure y
 │   └── userController.js  # Business logic
 ├── routes/
 │   └── userRoutes.js      # Route definitions
-├── .env
 ├── server.js
 ├── package.json
 └── README.md
@@ -65,6 +64,8 @@ Server will start at:
 ```bash
 http://localhost:3000
 ```
+
+---
 
 ## 🧪 Testing Your API 
 Run:
