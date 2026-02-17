@@ -34,6 +34,7 @@ express-mastery/
 ├── 02-middleware/ # Custom & Third-party (Morgan, CORS, JSON)
 ├── 03-rest-api/ # CRUD operations with a mock database
 ├── 04-databases/ # MongoDB (Mongoose), MVC structure, real database CRUD
+├── 05-auth/ # JWT authentication, password hashing, protected routes
 ├── README.md # Learning roadmap & documentation
 └── .gitignore # Ignore node_modules/ and environment files
 ```
@@ -74,6 +75,16 @@ Persist data using real databases:
 - Creating schemas and models
 - Performing database CRUD operations
 - Async/await with database queries
+
+---
+
+## 🔴 05 – Authentication
+Secure your applications:
+- Password hashing
+- JSON Web Tokens (JWT)
+- Protecting routes
+- Authentication vs Authorization
+- Sessions & Passport.js (intro)
 
 ---
 
