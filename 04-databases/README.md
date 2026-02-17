@@ -72,13 +72,21 @@ Run:
 npm run dev
 ```
 Test using Postman:
+- POST → http://localhost:3000/api/users
+  - Postman: body>JSON format add:
+```bash
+{
+    "name": "Hadi",
+    "email": "hadi@email.com",
+    "gender": "male",
+    "age": 25
+}
 ```
-POST → http://localhost:3000/api/users
-GET → http://localhost:3000/api/users
-GET by ID → /api/users/:id
-PUT → /api/users/:id
-DELETE → /api/users/:id
-```
+- GET → http://localhost:3000/api/users
+- GET by ID → /api/users/:id
+- PUT → /api/users/:id
+- DELETE → /api/users/:id
+
 
 
 ## Goal
