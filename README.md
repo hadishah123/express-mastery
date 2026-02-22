@@ -35,6 +35,7 @@ express-mastery/
 ├── 03-rest-api/ # CRUD operations with a mock database
 ├── 04-databases/ # MongoDB (Mongoose), MVC structure, real database CRUD
 ├── 05-auth/ # JWT authentication, password hashing, protected routes
+├── 06-advanced/ # Error handling, Validation, Testing (Jest)
 ├── README.md # Learning roadmap & documentation
 └── .gitignore # Ignore node_modules/ and environment files
 ```
@@ -85,6 +86,16 @@ Secure your applications:
 - Protecting routes
 - Authentication vs Authorization
 - Sessions & Passport.js (intro)
+
+---
+
+## 🟣 06 – Advanced Concepts
+Production-ready Express skills:
+- Centralized error handling
+- Request validation
+- Environment variables
+- Testing APIs with Jest & Supertest
+- Scalable folder structure
 
 ---
 
